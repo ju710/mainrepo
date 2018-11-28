@@ -1,2 +1,2 @@
 # mainrepo
-Here lies the main repository of the legend Julio. ~(˘▾˘~)
+Here lies the main repository of the legend Julio. (˘▾˘ )
