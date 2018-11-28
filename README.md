@@ -2,7 +2,7 @@
 Here lies the main repository of the legend Julio. (˘▾˘ )
 
 # Projects
-### mywebcuriosity
+### MyWebCuriosity
 Experiments for learning web related stuff will be here :)
 ```
 Project Code: MWC
